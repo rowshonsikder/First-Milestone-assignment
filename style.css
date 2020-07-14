@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    color: hotpink;
+    font-size: 50px;
+}
+
+h3{
+    font-size: 30px;
+
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: hotpink;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+img{
+    width: 100%;
+}
+
+.top-banner{
+    background-image: image("header-bg.png");
+    background-repeat: no-repeat;
+    width: 80%;
+    margin-left: 60px;
+}
+
+.middle-banner{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    width: 80%;
+    margin-left: 60px;
+}
+section{
+    height: 800px;
+}
+
+#lw{
+    text-align: center;
+}
+
+.work-pic{
+    width: 30%;
+    float: left;
+    padding-left: 40px;
+}
+
+.latest-workbanner{
+    background-image: url(latest-work-bg.png);
+    background-repeat: no-repeat;
+    width: 80%;
+    margin-left: 60px;
+}
+
+.ft{
+    text-align: center;
+    color: black;
+}
+
+#ft{
+    text-align: center;
+    color: gray;
+}
+
+.big-linkbutton{
+    text-decoration: none;
+    background-color: hotpink;
+    margin-left: 500px;
+    padding: 50px 40px;
+    border-radius: 10px;
+}
+
+.foot{
+    color: grey;
+    text-align: center;
+    font-size:  15px;
+    padding-bottom: 40px;
+}
+
+.finishing{
+    height: 600px;
+}
